@@ -1,0 +1,11 @@
+order_id,order_date,category,product,region,sales_amount,quantity
+1,2025-01-02,Electronics,Laptop,West,1200.0,1
+2,2025-01-05,Furniture,Chair,East,200.0,2
+3,2025-01-10,Electronics,Phone,South,800.0,1
+4,2025-02-01,Clothing,Shirt,North,50.0,3
+5,2025-02-05,Electronics,Tablet,West,600.0,1
+6,2025-02-10,Furniture,Table,East,400.0,1
+7,2025-03-01,Clothing,Jeans,South,80.0,2
+8,2025-03-05,Electronics,Headphones,North,150.0,2
+9,2025-03-10,Furniture,Sofa,West,900.0,1
+10,2025-04-01,Clothing,Jacket,East,120.0,1
